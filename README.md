@@ -64,15 +64,19 @@ API para controle financeiro pessoal: contas, categorias, transações, orçamen
 </td>
 <td width="50%" valign="top">
 
-### 💳 Integração de Pagamentos com Stripe
+### 💳 Webhook Donation API
 
-Fluxo de pagamento com Stripe Checkout e processamento de eventos via webhook.
+API de doações com Stripe Checkout, webhook assinado e idempotente, máquina de estados de ordem e contador mecânico no frontend.
 
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/evertonmedola/stripe-webhook-donation-api)
+
+![NestJS](https://img.shields.io/badge/NestJS-7C3AED?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-7C3AED?style=flat-square)
-![Webhooks](https://img.shields.io/badge/Webhooks-7C3AED?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square)
 
-`🚧 Em desenvolvimento`
+`✅ Finalizado`
 
 </td>
 </tr>
