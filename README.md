@@ -38,6 +38,7 @@ const everton = {
 <img src="https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
 <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logoColor=A855F7&color=0A0A0A&labelColor=0A0A0A" alt="SQL" />
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 
 </div>
