@@ -47,8 +47,8 @@ const everton = {
 ## 🚀 Projetos
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 💸 API de Controle Financeiro
 
@@ -61,8 +61,8 @@ API para controle financeiro pessoal: contas, categorias, transações, orçamen
 
 `🚧 Em desenvolvimento`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 💳 Integração de Pagamentos com Stripe
 
@@ -74,8 +74,8 @@ Fluxo de pagamento com Stripe Checkout e processamento de eventos via webhook.
 
 `🚧 Em desenvolvimento`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <!--
@@ -104,7 +104,7 @@ Quando os repositórios estiverem públicos, troque os cards acima por cards din
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evertonmedola&bg_color=0A0A0A&color=C9C9D1&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Activity Graph" />
+<img src="https://SEU-PROJETO.vercel.app/graph?username=evertonmedola&bg_color=0A0A0A&color=C9C9D1&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Activity Graph" />
 
 </div>
 
@@ -114,7 +114,7 @@ Quando os repositórios estiverem públicos, troque os cards acima por cards din
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=evertonmedola&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=evertonmedola&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
 
 </div>
 
