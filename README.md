@@ -160,9 +160,6 @@ Robô Python que monitora preços de passagens aéreas diariamente e envia alert
 <a href="https://www.linkedin.com/in/everton-medola/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/evertonmedola" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram" />
-</a>
 <a href="https://evertonmedola.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=A855F7" alt="Portfólio" />
 </a>
