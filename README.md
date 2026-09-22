@@ -24,7 +24,7 @@ Curso Engenharia de Software na **FAG** (6º semestre) e uso projetos próprios 
 const everton = {
   cargo: "Engenheiro de Integração",
   foco: ["APIs REST", "Transformação de dados", "Bancos relacionais"],
-  stack: ["NestJS", "TypeScript", "SQL"],
+  stack: ["NestJS", "TypeScript", "SQL", "Docker", "Git", "Python"],
   estudando: "Engenharia de Software @ FAG",
 };
 ```
@@ -81,12 +81,24 @@ API de doações com Stripe Checkout, webhook assinado e idempotente, máquina d
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="100%" valign="top" colspan="2">
 
-<!--
-Quando os repositórios estiverem públicos, troque os cards acima por cards dinâmicos:
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonmedola&repo=NOME_DO_REPO&theme=dark&bg_color=0A0A0A&title_color=A855F7&icon_color=8B5CF6&text_color=C9C9D1&border_color=2A2A3A)](https://github.com/evertonmedola/NOME_DO_REPO)
--->
+### ✈️ Flight Price Tracker
+
+Robô Python que monitora preços de passagens aéreas diariamente e envia alerta por e-mail quando o preço cai.
+
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/evertonmedola/flight-price-tracker)
+
+![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-7C3AED?style=flat-square)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-7C3AED?style=flat-square)
+
+`✅ Finalizado` — 98 testes, 96% cobertura
+
+</td>
+</tr>
+</table>
 
 ---
 
