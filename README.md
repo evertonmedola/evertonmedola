@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:7C3AED&height=230&section=header&text=Everton%20Gabriel%20M%C3%A9dola&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Engenheiro%20de%20Integra%C3%A7%C3%A3o&descSize=20&descColor=C4B5FD&descAlignY=58" alt="Banner Everton Gabriel Médola" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=620&height=40&lines=Engenheiro+de+Integra%C3%A7%C3%A3o;NestJS+%7C+TypeScript+%7C+SQL;Conectando+sistemas+via+APIs+REST;Estudante+de+Engenharia+de+Software" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=620&height=40&lines=Engenheiro+de+Integra%C3%A7%C3%A3o;NestJS+%7C+TypeScript+%7C+Python;Conectando+sistemas+via+APIs+REST;Automatizando+processos+com+GitHub+Actions" alt="Typing animation" />
 </a>
 
 <br/>
@@ -37,7 +37,9 @@ const everton = {
 
 <img src="https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
 <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logoColor=A855F7&color=0A0A0A&labelColor=0A0A0A" alt="SQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 
