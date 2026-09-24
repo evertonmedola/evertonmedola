@@ -23,8 +23,8 @@ Curso Engenharia de Software na **FAG** (6º semestre) e uso projetos próprios 
 ```ts
 const everton = {
   cargo: "Engenheiro de Integração",
-  foco: ["APIs REST", "Transformação de dados", "Bancos relacionais"],
-  stack: ["NestJS", "TypeScript", "SQL", "Docker", "Git", "Python"],
+  foco: ["APIs REST", "Transformação de dados", "Bancos relacionais", "Infraestrutura como código"],
+  stack: ["NestJS", "TypeScript", "Python", "PostgreSQL", "AWS", "Terraform"],
   estudando: "Engenharia de Software @ FAG",
 };
 ```
