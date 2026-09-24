@@ -38,9 +38,11 @@ const everton = {
 <img src="https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
 <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logoColor=A855F7&color=0A0A0A&labelColor=0A0A0A" alt="SQL" />
 <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+<img src="https://img.shields.io/badge/Terraform-0A0A0A?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 
 </div>
@@ -57,12 +59,15 @@ const everton = {
 
 API para controle financeiro pessoal: contas, categorias, transações, orçamento mensal e relatórios.
 
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/evertonmedola/financial-control-api)
+
 ![NestJS](https://img.shields.io/badge/NestJS-7C3AED?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-7C3AED?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square)
 
-`🚧 Em desenvolvimento`
+`✅ Finalizado`
 
 </td>
 <td width="50%" valign="top">
